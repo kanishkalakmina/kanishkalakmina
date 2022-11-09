@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 
 
-<img alt="info" align="center" src="https://raw.githubusercontent.com/kanishkalakmina/kanishkalakmina.github.io/master/Green%20and%20Yellow%20Forest%20Travel%20YouTube%20Intro%20Video.gif">
+<img alt="info" align="center" src="https://raw.githubusercontent.com/kanishkalakmina/kanishkalakmina.github.io/master/Untitled%20design.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishkalakmina&label=Profile%20views&color=0e75b6&style=flat" alt="kanishkalakmina" /> </p>
 

@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋</h1>
-
 
 <img alt="info" align="center" src="https://raw.githubusercontent.com/kanishkalakmina/kanishkalakmina.github.io/master/Untitled%20design.gif">
 
